@@ -1,0 +1,3 @@
+- Birinci madde
+- İkinci madde
+- Üçüncü madde
